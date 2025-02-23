@@ -33,6 +33,15 @@
 🔹 AI-powered food identification app  
 🔹 Stack: PyTorch, Django, HTML, CSS  
 
+🚀 **[Full-Stack Clinic Management System](#)**  
+🔹 Built a Clinic management platform with:  
+   - User signup & login  
+   - Admin dashboard  
+   - Appointment booking  
+   - Doctor attendance (using lat/lon)  
+   - Billing system  
+🔹 Stack: Django, PostgreSQL, AWS EC2, Apache2, Ubuntu  
+
 🚀 **[Full-Stack Gym Management System](#)**  
 🔹 Built a gym management platform with attendance & billing  
 🔹 Stack: Django, PostgreSQL, AWS EC2  
@@ -50,7 +59,6 @@
 ### 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yogesh-m-14063823b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Yogesh-M-14063823b)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6a00?style=flat&logo=internet-explorer&logoColor=white)](#)  
 
 ---
 
