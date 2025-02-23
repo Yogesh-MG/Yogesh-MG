@@ -58,7 +58,7 @@
 
 ### 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yogesh-m-14063823b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Yogesh-M-14063823b)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Yogesh-MG)  
 
 ---
 
